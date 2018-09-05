@@ -9,6 +9,10 @@ Sample Code Demo Choose Gallery and Take Photo
 
 [![Screen_Shot_2561-09-03_at_07.48.59.png](https://s26.postimg.cc/y7f7ggf0p/Screen_Shot_2561-09-03_at_07.48.59.png)](https://postimg.cc/image/jo82f1lvp/)
 
+[![Screen_Shot_2561-09-06_at_05.04.14.png](https://s26.postimg.cc/tpjdutjnd/Screen_Shot_2561-09-06_at_05.04.14.png)](https://postimg.cc/image/e422av7p1/)
+
+[![Screen_Shot_2561-09-06_at_05.04.46.png](https://s26.postimg.cc/w6v523izd/Screen_Shot_2561-09-06_at_05.04.46.png)](https://postimg.cc/image/6bbeiwh5h/)
+
 ## ต้องการรายละเอียดเพิ่ม หรือ ต้องการ ปรึกษาการทำ โปรเจคแอนดรอยด์
 ### ติดต่อมาสเตอร์ อึ่ง เลย ที่
 
